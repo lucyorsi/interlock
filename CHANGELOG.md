@@ -1,5 +1,11 @@
 # @type_of/interlock
 
+## 0.1.14
+
+### Patch Changes
+
+- efa6dfb: Show a review of draft changes against the latest published workflow version before publishing in the editor.
+
 ## 0.1.13
 
 ### Patch Changes
